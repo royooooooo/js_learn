@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "lodash": "4.17.10",
-    "typescript": "^3.0.1",
-    "jest": "24.8.0"
+    "jest": "24.8.0",
+    "lodash": "^4.17.15",
+    "typescript": "^3.0.1"
   },
   "author": "",
   "license": "ISC"
